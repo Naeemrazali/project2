@@ -1,5 +1,9 @@
 # Writeup: 3D-Object Detections
 
+https://github.com/Naeemrazali/project2
+
+Object detection is important for self-driving cars to be able to gain high level understanding of its environment from point cloud data from lidar sensors. The car needs this information to be able to make optimal decisions such as stopping at a stop sign or giving way to pedestrians at a zebra crossing. 
+
 
 ## Varying visibility of vehicles in point cloud 
 ![Screenshot from 2021-11-27 05-13-07](https://user-images.githubusercontent.com/38019946/143521575-b407ed64-25da-44fb-a312-2a19257bd18b.png)
