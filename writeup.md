@@ -36,6 +36,11 @@ By taking the intensity map of these point clouds it can be seen that the front 
 ![Screenshot from 2021-11-26 21-45-21](https://user-images.githubusercontent.com/38019946/143553031-811067cf-2611-4811-937f-cfc07e9dc85a.png)
 ![Screenshot from 2021-11-26 21-45-51](https://user-images.githubusercontent.com/38019946/143553033-dce98574-e528-450d-93a4-5861bc505e75.png)
 
+1. Write a short recap of the four tracking steps and what you implemented there (filter, track management, association, camera fusion). Which results did you achieve? Which part of the project was most difficult for you to complete, and why?
+2. Do you see any benefits in camera-lidar fusion compared to lidar-only tracking (in theory and in your concrete results)?
+3. Which challenges will a sensor fusion system face in real-life scenarios? Did you see any of these challenges in the project?
+4. Can you think of ways to improve your tracking results in the future?
+
 
 
 
